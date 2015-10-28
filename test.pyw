@@ -54,5 +54,3 @@ class Ui_Form(object):
 
 	def buttonClick1(self):
 		self.lineEdit.setText("Привет!")
-
-
