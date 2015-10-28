@@ -33,7 +33,7 @@ class Ui_Form(object):
 		self.pushButton.setGeometry(QtCore.QRect(160, 200, 75, 23))
 		self.pushButton.setObjectName(_fromUtf8("pushButton"))
 		self.lineEdit = QtGui.QLineEdit(Form)
-		self.lineEdit.setGeometry(QtCore.QRect(150, 90, 113, 20))
+		self.lineEdit.setGeometry(QtCore.QRect(170, 120, 50, 20))
 		self.lineEdit.setObjectName(_fromUtf8("lineEdit"))
 		self.pushButton_2 = QtGui.QPushButton(Form)
 		self.pushButton_2.setGeometry(QtCore.QRect(160, 240, 75, 23))
