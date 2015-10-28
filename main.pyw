@@ -1,9 +1,9 @@
-#from PyQt5.QtWidgets import QApplication, QMainWindow
+# from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt4.QtGui import QApplication, QMainWindow
 from test import *
-#------------------------------
+# ------------------------------
 
-#-------------------------------
+# -------------------------------
 if __name__ == "__main__":
 	import sys
 
